@@ -1,0 +1,255 @@
+🤖 Inteligencia Artificial y Copilot
+Etendo Copilot - Funcionalidades Generales
+"Copilot: todo el potencial de la IA para simplificar la gestión diaria de tu negocio"
+
+URL: https://etendo.software/copilot-todo-el-potencial-de-la-ia/
+Fecha: 3 jun 2025
+Palabras clave: copilot, inteligencia artificial, asistentes de contexto, chat contextual, tiempo real
+Descripción: Introduce Etendo Copilot como un asistente inteligente que entiende el contexto de la ventana en la que trabaja el usuario y le ayuda mediante un chat integrado en cualquier ventana estándar.
+Resumen: Esta entrada introduce Etendo Copilot como un asistente inteligente que entiende el contexto de la ventana en la que trabaja el usuario (registro activo, filas seleccionadas, campos editados) y le ayuda en tiempo real. Permite comunicarse mediante un chat dentro de cualquier ventana estándar, obteniendo información o realizando acciones de manera contextual. La publicación explica que Copilot utiliza modelos de lenguaje y está integrado en la experiencia del ERP, aportando soporte y agilizando tareas cotidianas.
+
+"Etendo y el poder de la IA"
+
+URL: https://etendo.software/etendo-y-el-poder-de-la-ia/
+Fecha: 29 jul 2024
+Palabras clave: inteligencia artificial, ERP inteligente, automatización, análisis datos, tendencias
+Descripción: Explica cómo la IA transforma el ERP en un sistema dinámico capaz de analizar grandes volúmenes de datos, detectar tendencias y anticipar necesidades empresariales.
+Resumen: La publicación señala que la incorporación de inteligencia artificial transforma el ERP en un sistema dinámico capaz de analizar grandes volúmenes de datos, detectar tendencias y anticipar necesidades. La IA mejora la experiencia de usuario, automatiza tareas repetitivas y ofrece información estratégica. Etendo invierte en estas tecnologías para proporcionar una evolución continua que combine creatividad humana y aprendizaje automático.
+
+Copilot - Arquitectura Técnica
+"Etendo Copilot: potenciando la IA con Langchain y Langgraph"
+
+URL: https://etendo.software/etendo-copilot-langchain-langgraph/
+Fecha: 6 sep 2024
+Palabras clave: copilot, langchain, langgraph, agentes jerárquicos, tecnología, arquitectura
+Descripción: Explica la tecnología detrás de Copilot: Langchain conecta modelos de lenguaje con fuentes de datos, mientras que LangGraph orquesta equipos de agentes jerárquicos que colaboran para resolver tareas complejas.
+Resumen: Esta entrada explica la tecnología detrás de Copilot. Langchain permite conectar el modelo de lenguaje con fuentes de datos y personalizar asistentes, mientras que LangGraph orquesta equipos de agentes jerárquicos que colaboran para resolver tareas complejas. El artículo describe ejemplos de uso: automatizar tareas, asistir en la toma de decisiones, generar contenido y conectar varios sistemas. La combinación de Langchain y LangGraph permite construir equipos de agentes que trabajan de forma coordinada.
+
+
+🔐 Seguridad y Autenticación
+Single Sign-On (SSO)
+"Etendo SSO – Inicia sesión sin contraseñas y con total seguridad"
+
+URL: https://etendo.software/etendo-sso-inicia-sesion-sin-contrasenas/
+Fecha: 23 jul 2025
+Palabras clave: seguridad, autenticación, single sign on, google drive, oauth, passwordless
+Descripción: Presenta la función de inicio de sesión único que permite autenticarse mediante Google, Microsoft, LinkedIn, GitHub o Facebook, eliminando contraseñas y acelerando el acceso mediante OAuth.
+Resumen: La publicación anuncia la nueva función de inicio de sesión único (SSO) en Etendo, que permite autenticarse mediante Google, Microsoft, LinkedIn, GitHub o Facebook. Esto elimina la necesidad de contraseñas y acelera el acceso. El artículo explica el modelo OAuth utilizado, describe cómo vincular una cuenta externa al usuario de Etendo y enumera los beneficios: mayor seguridad, acceso rápido, gestión centralizada y posibilidad de utilizar múltiples cuentas. También menciona que la autenticación unificada facilita la integración con servicios como Google Drive.
+
+
+🏗️ Desarrollo y Herramientas Técnicas
+Dev Assistant
+"Dev Assistant: revolucionando la gestión de bases de datos con IA"
+
+URL: https://etendo.software/dev-assistant-revolucionando-la-gestion-de-bases-de-datos-con-ia/
+Fecha: 29 jul 2024
+Palabras clave: dev assistant, generación de ventanas/tablas, productividad, desarrollo, automatización
+Descripción: Presenta Dev Assistant, herramienta de IA que ayuda a desarrolladores a crear ventanas, pestañas, campos, entradas de menú, tablas y columnas en Etendo, reduciendo tiempo de desarrollo.
+Resumen: La entrada presenta Dev Assistant, una herramienta de inteligencia artificial que ayuda a los desarrolladores a crear ventanas, pestañas, campos, entradas de menú, tablas y columnas en Etendo. El asistente guía al usuario paso a paso, reduce el tiempo de desarrollo, mejora la precisión y aumenta la productividad, permitiendo a la empresa centrarse en tareas estratégicas.
+
+
+📱 Etendo Mobile
+Integraciones Móviles
+"Más integración con Etendo Mobile – recibe y comparte archivos"
+
+URL: https://etendo.software/etendo-mobile-recibe-y-comparte-archivos/
+Fecha: 4 abr 2025
+Palabras clave: etendo mobile, integración, compartir archivos, document manager, share files
+Descripción: Presenta mejoras en Etendo Mobile que permiten recibir archivos desde otras aplicaciones y compartirlos con sub-apps como Document Manager o Copilot, incluyendo transformación de audio en órdenes de venta.
+Resumen: Esta publicación presenta mejoras en Etendo Mobile que permiten recibir archivos desde otras aplicaciones y compartirlos con sub-apps como Document Manager o Copilot. La funcionalidad Share files habilita flujos como transformar un audio en una orden de venta o extraer información de una imagen para generar pedidos. Estas integraciones amplían la conectividad de la aplicación móvil y facilitan la captura de datos de diversas fuentes.
+
+
+🛒 Gestión de Compras
+Automatización de Compras
+"¿Cómo reduzco la carga operativa de mi equipo de compras? Con el Agente Invoice Supervisor"
+
+URL: https://etendo.software/como-reduzco-la-carga-operativa-de-mi-equipo-de-compras-con-el-agente-invoice-supervisor/
+Fecha: 14 jul 2025
+Palabras clave: agentes de IA, compras, OCR, automatización de facturas, invoice supervisor
+Descripción: Presenta el agente inteligente Invoice Supervisor que automatiza la creación de facturas de proveedores a partir de documentos (PDF, ZIP, imágenes), extrayendo información automáticamente y generando facturas listas para aprobación.
+Resumen: El artículo presenta el agente inteligente Invoice Supervisor, parte de la suite Copilot. Este agente permite automatizar la creación de facturas de proveedores a partir de documentos recibidos (PDF, ZIP o imágenes). La IA extrae información como proveedor, número de factura, moneda y líneas de productos, genera la factura correspondiente y la deja lista para aprobación. Además, el usuario puede seguir en tiempo real el estado de las tareas y ajustar el comportamiento del agente (por ejemplo, si agrupa líneas o cómo decide en función del historial del proveedor).
+
+"Simplifica tus compras con Etendo"
+
+URL: https://etendo.software/simplifica-tus-compras-con-etendo/
+Fecha: 29 jul 2024
+Palabras clave: asistente de compras, OCR, automatización, pedidos, validación
+Descripción: Introduce el asistente de compras que automatiza la creación de pedidos mediante OCR para extraer datos de imágenes o PDF, validar información y generar pedidos como borrador.
+Resumen: Este artículo introduce el asistente de compras que automatiza la creación de pedidos. El agente recopila información básica, emplea un sistema OCR para extraer datos de imágenes o PDF, valida la información y genera el pedido como borrador. Con ello se agiliza la gestión de compras y se reducen errores.
+
+
+💰 Gestión Financiera
+Comisiones
+"¿Cómo agilizo el cálculo de mis comisiones con Etendo?"
+
+URL: https://etendo.software/calculatuscomisionesconetendo/
+Fecha: 2 may 2025
+Palabras clave: comisiones de ventas, automatización, flexibilidad, agentes ventas, cálculo automático
+Descripción: Explica cómo Etendo permite definir el cálculo de comisiones de agentes de ventas basándose en pedidos o facturas, con generación automática de facturas de proveedor para pagos.
+Resumen: El artículo explica que Etendo permite definir cómo y cuándo se calculan las comisiones de los agentes de ventas. Puede basarse en pedidos o facturas, en cantidades vendidas o importes facturados y sólo en facturas pagadas si se requiere. El sistema también puede generar automáticamente facturas de proveedor para pagar comisiones y ofrece la flexibilidad de que las comisiones dependan de la asignación de un agente a cada factura.
+
+Facturación y Cumplimiento Fiscal
+"La Facturación en España es con Etendo: La Solución Veri*Factu Definitiva"
+
+URL: https://etendo.software/la-facturacion-en-espana-es-con-etendo-la-solucion-verifactu-definitiva/
+Fecha: 7 ago 2025
+Palabras clave: verifactu, facturación electrónica, AEAT, cumplimiento fiscal, automatización
+Descripción: Presenta la solución integral de Etendo para cumplir con la normativa VERI*FACTU, garantizando la integridad, trazabilidad y envío en tiempo real de facturas a la Agencia Tributaria Española.
+Resumen: El artículo explica qué es VERI*FACTU, a quién aplica y las fechas clave de implementación. Destaca que Etendo ya dispone de un módulo operativo que automatiza la generación, registro y envío electrónico de facturas conforme a la normativa, incluyendo QR tributario, trazabilidad total y gestión de errores mediante subsanación o rectificación. El sistema se integra completamente con la facturación de Etendo, ofreciendo configuración sencilla, control exhaustivo del estado de envíos y reducción de riesgos fiscales. La propuesta de valor: cumplimiento garantizado, automatización sin fisuras y preparación proactiva frente a la nueva era de facturación electrónica en España.
+
+📊 Análisis Contable Avanzado
+Centro de Costo en Reportes Financieros
+"Gran novedad en Etendo: El Centro de Costo llega al reporte Cuadros Plan General Contable Avanzado"
+
+URL: https://etendo.software/gran-novedad-en-etendo-el-centro-de-costo-llega-al-reporte-cuadros-plan-general-contable-avanzado/
+Fecha: 8 ago 2025
+Palabras clave: centro de costo, análisis contable, cuadros PGC avanzado, reporting financiero, excel
+Descripción: Anuncia la incorporación de la dimensión contable Centro de Costo en los reportes Cuadros del Plan General Contable Avanzado de Etendo, mejorando el análisis financiero y la exportación de datos.
+Resumen: La nueva funcionalidad permite asignar ingresos y gastos a unidades específicas (departamentos, proyectos, sedes) y analizarlos desde los reportes avanzados de Balance y P&L. Incluye filtros combinados por múltiples dimensiones, soporte para estructuras jerárquicas, trazabilidad directa a asientos contables y exportación a Excel totalmente rediseñada, sin limitación de dimensiones. Disponible a partir de la versión 23.1.4 con Financial Extensions Bundle actualizado, esta mejora aporta mayor precisión, control y capacidad estratégica en el análisis financiero.
+
+
+⚙️ Procesamiento Masivo y Automatización
+Bulk Processing
+"Etendo agiliza la gestión con Bulk Completion y Bulk Posting"
+
+URL: https://etendo.software/etendo-agiliza-la-gestion-con-bulk-completion-y-bulk-posting/
+Fecha: 24 jul 2025
+Palabras clave: gestión de compras y ventas, bulk completion, bulk posting, automatización, procesamiento masivo
+Descripción: Presenta dos funcionalidades: Bulk Completion (completar, reactivar, anular o cerrar múltiples documentos) y Bulk Posting (contabilizar o des-contabilizar varios documentos a la vez) para agilizar la gestión administrativa.
+Resumen: Esta entrada presenta dos funcionalidades que agilizan la gestión administrativa: Bulk Completion y Bulk Posting. La primera permite completar, reactivar, anular o cerrar múltiples documentos (pedidos o facturas) en un solo paso, lo que ahorra tiempo y reduce errores. La segunda permite contabilizar o des-contabilizar varios documentos a la vez y ofrece ventanas específicas para revisar los documentos pendientes de contabilización. La publicación subraya los beneficios de operativa masiva y enlaza a la documentación oficial para guiar a los usuarios.
+
+
+🔗 Integraciones y Conectividad
+Integraciones Externas
+"¿Es posible integrar sistemas diferentes? Team Etendo responde"
+
+URL: https://etendo.software/es-posible-integrar-sistemas-diferentes-en-la-gestion-de-mi-negocio/
+Fecha: 27 may 2025
+Palabras clave: integraciones, sistemas externos, PIM, edicom, power BI, sincronización
+Descripción: Caso de éxito describiendo cómo Etendo integró su ERP con sistemas externos para sincronizar pedidos, expediciones y stock, mejorando planificación de producción y gestión de compras.
+Resumen: En este caso de éxito se describe cómo Etendo integró su ERP con un sistema externo para un cliente que requería sincronizar pedidos, expediciones y stock. Se analiza la información clave, se diseña una integración configurable y escalable y se realizan pruebas para corregir errores. El resultado fue una mejora en la planificación de la producción, la gestión de compras y la integración con Edicom y Power BI para generar paneles de control. El artículo subraya que una integración bien diseñada mejora la eficiencia y evita la duplicación de datos.
+
+
+📈 Casos de Éxito
+Casos de Clientes
+"¿Cómo automatizar procesos manuales de mi negocio y volverlo escalable? El caso de GloriaPets"
+
+URL: https://etendo.software/como-automatizar-procesos-manuales-de-mi-negocio/
+Fecha: 17 may 2025
+Palabras clave: caso de éxito, automatización, procesos de ventas, expansión internacional, escalabilidad
+Descripción: Relata cómo Gloria Pets pasó de gestión manual a procesar 300 órdenes diarias con Etendo, integrando almacén, automatizando compras y facturación, creciendo de 5M€ a 16,5M€ en facturación.
+Resumen: Esta entrada relata el caso de Gloria Pets, distribuidor de productos para mascotas que antes gestionaba pedidos manualmente y carecía de control de stock. Tras implantar Etendo en 2017, la empresa pasó a procesar 300 órdenes de venta diarias, integró la gestión de almacén con su operador logístico, automatizó compras y facturación y conectó el ERP con Power BI para informes. Como resultado, la facturación creció de 5 M€ en 2016 a 16,5 M€ en 2023. La automatización permitió escalar el negocio y expandirse internacionalmente.
+
+
+🎯 Estrategia y Visión Empresarial
+Arquitectura ERP
+"¿Composable o no? Esa es la cuestión"
+
+URL: https://etendo.software/composable-o-no/
+Fecha: 17 sep 2024
+Palabras clave: composability, ERP modular, PBCs, gartner, arquitectura flexible
+Descripción: Analiza diferencias entre ERP monolítico y composable, citando que 60% de organizaciones adoptará packaged business capabilities según Gartner, apostando por arquitectura modular e integración avanzada.
+Resumen: Esta publicación analiza las diferencias entre un ERP monolítico y un ERP composable. Señala que un ERP composable es modular y flexible, mientras que las soluciones tradicionales son rígidas y requieren customizaciones costosas. Citando a Gartner, se menciona que el 60 % de las organizaciones adoptará packaged business capabilities (PBCs) en 2024. Etendo apuesta por una arquitectura modular, integración avanzada y capacidades de IA, lo que reduce la dependencia del proveedor y facilita la evolución del sistema.
+
+"Roadmap Etendo"
+
+URL: https://etendo.software/roadmap-etendo/
+Fecha: 4 oct 2024
+Palabras clave: hoja de ruta, arquitectura modular, IA generativa, verticales especializados
+Descripción: Describe la visión futura de Etendo como ERP composable y modular con IA generativa, especializando verticales (finanzas, manufactura, almacenes) y ofreciendo soluciones automáticas mediante agentes inteligentes.
+Resumen: El artículo describe la visión a futuro de Etendo. La empresa apuesta por un ERP composable y modular que facilite el ensamblaje de bloques funcionales y que integre capacidades de IA generativa. Además, trabaja en especializar verticales (finanzas, manufactura, almacenes) y en ofrecer soluciones automáticas mediante agentes inteligentes. La hoja de ruta enfatiza la innovación constante para adaptarse a las necesidades de los clientes y liderar la transformación digital.
+
+"La nueva era de la transformación digital"
+
+URL: https://etendo.software/la-nueva-era-de-la-transformacion-digital/
+Fecha: 29 ago 2024
+Palabras clave: transformación digital, IA generativa, low-code, plataforma composable
+Descripción: Reflexiona sobre evolución de sistemas ERP hacia asistentes inteligentes, posicionando Etendo como plataforma composable y generativa con desarrollo low-code y agentes verticales especializados.
+Resumen: Este artículo reflexiona sobre la evolución de los sistemas ERP hacia asistentes inteligentes basados en IA. Plantea que Etendo se posiciona como una plataforma composable y generativa, ofreciendo oportunidades a empresas tecnológicas mediante desarrollo low-code y soluciones accesibles. Destaca que la IA reduce errores, aumenta la productividad y permite crear agentes verticales especializados, como el Purchase Expert o el SQL Expert.
+
+Selección de ERP
+"¿Qué buscar en un ERP?"
+
+URL: https://etendo.software/que-buscar-en-un-erp/
+Fecha: 7 nov 2024
+Palabras clave: ERP para PYME, modularidad, IA generativa, selección, personalización
+Descripción: Basado en informe Foundry Spotlight, recomienda buscar ERP modular y composable que permita personalizar funciones, evaluando diseño modular, capacidad de integración y accesibilidad tecnológica.
+Resumen: Basado en el informe Foundry Spotlight, el artículo plantea que muchas soluciones ERP para pymes son rígidas y complejas. Recomienda buscar un ERP modular y composable que permita personalizar funciones como piezas de LEGO. Sugiere evaluar la personalización, el diseño modular, la capacidad de integración con otras herramientas y la accesibilidad tecnológica. Destaca que Etendo incorpora IA generativa para interactuar en lenguaje natural y se adapta a las necesidades de las pymes.
+
+
+🚀 Versiones y Actualizaciones
+Nuevas Versiones
+"Tu ERP ahora más potente – más compatibilidad y mejoras en la gestión de compras en Etendo 25.1.x"
+
+URL: https://etendo.software/tu-erp-ahora-mas-potente-mas-compatibilidad-y-mejoras-la-gestion-de-compras-en-etendo-25-1-x/
+Fecha: 11 jun 2025
+Palabras clave: versión 25.1.x, compatibilidad, java 17, postgresql 16, mejoras de compras
+Descripción: Presenta mejoras en compatibilidad (Java 17, PostgreSQL 16, Tomcat 9) y funcionalidades como visualización de estado de envío/facturación, mejoras en anulación de facturas y optimización de navegación.
+Resumen: La versión Etendo 25.1.x incorpora mejoras en compatibilidad y funcionalidad. El artículo destaca la compatibilidad con Java 17, PostgreSQL 16 y Tomcat 9 y la actualización de módulos. A nivel funcional, permite visualizar el estado de envío y facturación directamente en las ventanas de pedidos y envíos de proveedor, mejora el proceso de anulación de facturas de compra (permitiendo referenciar documentos del proveedor), facilita la cancelación de descuentos y promociones y optimiza la navegación entre pedidos y facturas.
+
+
+🧪 Pruebas y Demos
+Entornos de Prueba
+"Prueba lo último de Etendo y mantente al día con las novedades"
+
+URL: https://etendo.software/prueba-lo-ultimo-de-etendo-y-mantente-al-dia-con-las-novedades/
+Fecha: 27 jun 2025
+Palabras clave: live builds, demos, versiones 24.x y 25.x, pruebas, entornos testing
+Descripción: Invita a probar versiones Live Builds de Etendo (24.x y 25.x) en entornos de prueba sin afectar producción, con acceso mediante credenciales por defecto y página de estado del servicio.
+Resumen: Aquí se invita a los usuarios a probar las versiones Live Builds de Etendo. Estos entornos de prueba permiten explorar las versiones 24.x y 25.x, así como nuevas funcionalidades, sin afectar el entorno productivo. La entrada lista los servidores disponibles (por ejemplo, Etendo 24.X + Paquetes y Etendo 25.X + Paquetes) y explica que se puede acceder con las credenciales por defecto (admin / admin). También se proporciona un enlace a una página de estado del servicio para supervisar la disponibilidad y suscribirse a notificaciones.
+
+"¿Por qué una demo puede ahorrarte tiempo y dinero?"
+
+URL: https://etendo.software/porque-una-demo-puede-ahorrarte-tiempo-y-dinero/
+Fecha: 18 feb 2025
+Palabras clave: demostraciones, SaaS, selección de ERP, ahorro de costes, evaluación
+Descripción: Anima a probar Etendo SaaS mediante demo gratuita, explicando cómo permite planificar implementación, optimizar procesos, evaluar costes y recibir asesoría personalizada.
+Resumen: Esta entrada anima a las empresas a probar Etendo SaaS mediante una demo gratuita. Sugiere tres pasos: registrarse para crear un entorno de prueba, explorar el sistema y contactar con el equipo para asesoramiento. Explica que una demo permite planificar la implementación, optimizar procesos, evaluar costes, asegurar la migración y la seguridad de los datos y recibir asesoría personalizada. Así, probar antes de comprar ayuda a ahorrar tiempo y dinero al elegir un ERP.
+
+
+📚 Formación y Capacitación
+Cursos y Certificaciones
+"Capacítate con Etendo"
+
+URL: https://etendo.software/capacitate-con-etendo/
+Fecha: 15 oct 2024
+Palabras clave: formación, cursos online, copilot, mobile, certificaciones, capacitación
+Descripción: Promueve cursos online: Introducción a Etendo (conceptos básicos), Introducción a Etendo Copilot (configuración del asistente) y Etendo Mobile (creación de sub-aplicaciones móviles).
+Resumen: Esta entrada promueve los cursos online de Etendo. Menciona tres formaciones principales: Introducción a Etendo (conceptos básicos del ERP, arquitectura, instalación y funcionalidad), Introducción a Etendo Copilot (configurar y utilizar el asistente inteligente y desarrollar nuevas herramientas) y Etendo Mobile (creación de sub-aplicaciones móviles). Se destaca la flexibilidad de horarios, la posibilidad de certificación y la importancia de actualizarse constantemente.
+
+
+🌐 Eventos y Presencia Internacional
+Eventos en España
+"Etendo en ERP Summit España"
+
+URL: https://etendo.software/etendo-en-erp-summit-espana/
+Fecha: 4 jul 2025
+Palabras clave: eventos, ERP summit, inteligencia artificial, agentes, networking
+Descripción: Destaca participación en ERP Summit España 2025 con 800+ asistentes, presentando Etendo como plataforma abierta con agentes Copilot para automatización de tareas.
+Resumen: Esta entrada destaca la participación de Etendo en el ERP Summit España 2025, evento que reunió a más de 800 asistentes y 30 expositores para debatir sobre el futuro de los sistemas empresariales. El artículo remarca la importancia de los eventos presenciales para generar ideas y contactos, y subraya que las grandes tendencias del sector son la inteligencia artificial y la adopción de agentes autónomos. Etendo se presentó como una plataforma abierta con agentes Copilot capaces de automatizar tareas y adaptarse al contexto.
+
+"Etendo en el San Pablo – Summit"
+
+URL: https://etendo.software/san-pablo-summit-2/
+Fecha: 28 mar 2025
+Palabras clave: eventos, networking, innovación, industria software, são paulo
+Descripción: Participación en ERP Summit de São Paulo, descrito como mayor encuentro mundial sobre software y gestión, fomentando intercambio de conocimientos y alianzas estratégicas.
+Resumen: Etendo participó en el ERP Summit de São Paulo, descrito como el mayor encuentro mundial sobre software y gestión. El evento, organizado por Portal ERP, reúne a expertos de Latinoamérica y España y fomenta el intercambio de conocimientos y experiencias. La entrada destaca la importancia de estos eventos para la innovación tecnológica y la creación de alianzas estratégicas.
+
+Eventos en Argentina
+"Demo Day Argentina"
+
+URL: https://etendo.software/demo-day-argentina/
+Fecha: 2 dic 2024
+Palabras clave: eventos, inteligencia artificial, agentes generativos, networking, río cuarto
+Descripción: Evento en Río Cuarto para directivos donde se debatió impacto de IA generativa y agentes autónomos, presentando diferencias entre agentes y prompts y capacidades de Etendo Copilot.
+Resumen: En Río Cuarto se realizó el Demo Day Argentina, un evento orientado a directivos y profesionales donde se debatió el impacto de la inteligencia artificial generativa y los agentes autónomos en los negocios. Se explicaron las diferencias entre agentes y prompts, se presentó cómo Etendo Copilot gestiona conocimientos y automatiza procesos y se invitó a reflexionar sobre la transformación digital. Además, los asistentes pudieron realizar networking y compartir experiencias.
+
+Expansión Internacional
+"India Seminar Series"
+
+URL: https://etendo.software/india-seminar-series-blog/
+Fecha: 3 dic 2024
+Palabras clave: eventos, internacionalización, india, partners, bangalore, chennai, mumbai
+Descripción: Serie de seminarios en Bangalore, Chennai y Mumbai para presentar Etendo ERP en India, colaborando con socios locales como Qualian, Promantia y Parekh para establecer alianzas.
+Resumen: Etendo organizó una serie de seminarios en Bangalore, Chennai y Mumbai para presentar su ERP en India. El artículo explica que eligieron India porque es un mercado de rápido crecimiento y su filosofía de código abierto encaja con las necesidades locales. Colaboraron con socios como Qualian, Promantia y Parekh y el objetivo fue establecer alianzas para llevar una solución ERP moderna y modular al mercado.
