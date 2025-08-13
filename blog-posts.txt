@@ -253,3 +253,11 @@ Fecha: 3 dic 2024
 Palabras clave: eventos, internacionalización, india, partners, bangalore, chennai, mumbai
 Descripción: Serie de seminarios en Bangalore, Chennai y Mumbai para presentar Etendo ERP en India, colaborando con socios locales como Qualian, Promantia y Parekh para establecer alianzas.
 Resumen: Etendo organizó una serie de seminarios en Bangalore, Chennai y Mumbai para presentar su ERP en India. El artículo explica que eligieron India porque es un mercado de rápido crecimiento y su filosofía de código abierto encaja con las necesidades locales. Colaboraron con socios como Qualian, Promantia y Parekh y el objetivo fue establecer alianzas para llevar una solución ERP moderna y modular al mercado.
+
+
+"La revolución móvil en la gestión de almacenes esta llegando a Etendo"
+
+URL: https://etendo.software/gestion-de-inventario-de-etendo-la-revolucion-movil-en-la-gestion-de-almacenes/
+Fecha: 2025-08-12T22:12:08.000Z
+Resumen: <p>La última versión del Warehouse Extensions Bundle compatible con Etendo 24 y Etendo 25, trae una mejora que está marcando un antes y un después en el control de inventarios: la Gestión de Inventario ahora puede realizarse directamente desde dispositivos móviles. Si antes el manejo del almacén dependía exclusivamente del ERP en escritorio, ahora los […]</p>
+<p>The post <a href="https://etendo.software/gestion-de-inventario-de-etendo-la-revolucion-movil-en-la-gestion-de-almacenes/">La revolución móvil en la gestión de almacenes esta llegando a Etendo</a> appeared first on <a href="https://etendo.software">Etendo Software</a>.</p>
