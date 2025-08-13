@@ -108,3 +108,12 @@
 - **Duración**: 2:12
 - **Palabras clave**: Casos de éxito
 - **Descripción**: Caso de éxito del cliente Lady Pipa
+
+
+### Video: "Etendo Inventory Management: The Mobile Revolution in Warehouse Management"
+- **URL**: https://www.youtube.com/watch?v=nBElvaejJMQ
+- **Descripción**: For more information, visit:
+ https://docs.etendo.software/latest/user-guide/etendo-classic/optional-features/bundles/warehouse-extensions/advanced-warehouse-management/#inventory-management
+
+🚀 Etendo Website https://etendo.software
+📚 Etendo Documentation: https://docs.etendo.software/
