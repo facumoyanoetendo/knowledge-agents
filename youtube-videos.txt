@@ -117,3 +117,7 @@
 
 🚀 Etendo Website https://etendo.software
 📚 Etendo Documentation: https://docs.etendo.software/
+
+### Video: "Perfect orders in minutes: the change your warehouse needs is called Etendo Mobile."
+- **URL**: https://www.youtube.com/watch?v=3yh8Jmus_lo
+- **Descripción**: Error-free picking, smart packing, and orders delivered in record time. With Etendo Mobile, your warehouse goes from paper to fully mobile, gaining precision, speed, and more satisfied customers.
