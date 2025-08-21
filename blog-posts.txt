@@ -261,3 +261,10 @@ URL: https://etendo.software/gestion-de-inventario-de-etendo-la-revolucion-movil
 Fecha: 2025-08-12T22:12:08.000Z
 Resumen: <p>La última versión del Warehouse Extensions Bundle compatible con Etendo 24 y Etendo 25, trae una mejora que está marcando un antes y un después en el control de inventarios: la Gestión de Inventario ahora puede realizarse directamente desde dispositivos móviles. Si antes el manejo del almacén dependía exclusivamente del ERP en escritorio, ahora los […]</p>
 <p>The post <a href="https://etendo.software/gestion-de-inventario-de-etendo-la-revolucion-movil-en-la-gestion-de-almacenes/">La revolución móvil en la gestión de almacenes esta llegando a Etendo</a> appeared first on <a href="https://etendo.software">Etendo Software</a>.</p>
+
+"Pedidos perfectos en minutos: el cambio que tu almacén necesita se llama Etendo Mobile"
+
+URL: https://etendo.software/pedidos-perfectos-en-minutos-el-cambio-que-tu-almacen-necesita-se-llama-etendo-mobile/
+Fecha: 2025-08-21T13:01:43.000Z
+Resumen: <p>Del inventario a los pedidos: la evolución móvil de Etendo La semana pasada presentamos cómo Etendo Mobile llevó el control de inventarios directamente al piso del almacén. Hoy damos un paso más: la movilidad llega también a los procesos más críticos de gestión de pedidos. Con Etendo Mobile, el picking y el packing dejan de […]</p>
+<p>The post <a href="https://etendo.software/pedidos-perfectos-en-minutos-el-cambio-que-tu-almacen-necesita-se-llama-etendo-mobile/">Pedidos perfectos en minutos: el cambio que tu almacén necesita se llama Etendo Mobile</a> appeared first on <a href="https://etendo.software">Etendo Software</a>.</p>
